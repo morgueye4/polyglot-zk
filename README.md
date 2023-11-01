@@ -1,2 +1,2 @@
 # polyglot-zk
-zk circuits implemented in multiple ways
+zk circuits for proving statements implemented in different ways

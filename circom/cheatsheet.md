@@ -44,7 +44,7 @@ snarkjs zkey export verificationkey circuit_final.zkey verification_key.json
 ```
 ### prove 
 ```
-snarkjs plonk prove circuit_final.zkey witness.wtns proof.json public.json
+snarkjs plonk prove circuit_js/circuit_final.zkey witness.wtns proof.json public.json
 ```
 ### Verify using vkey
 ```
